@@ -1,0 +1,3 @@
+﻿  模拟实现memset函数.c
+E:\C语言\内存函数\memset：内存设置\模拟实现memset函数.c(33,8): warning C4013: “memset”未定义；假设外部返回 int
+  memset：内存设置.vcxproj -> E:\C语言\内存函数\memset：内存设置\Debug\memset：内存设置.exe
