@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strerror函数：返回错误码", "strerror函数：返回错误码.vcxproj", "{2107534B-CDEE-4780-BC60-3D2FE75F35DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Debug|x64.ActiveCfg = Debug|x64
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Debug|x64.Build.0 = Debug|x64
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Debug|x86.Build.0 = Debug|Win32
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Release|x64.ActiveCfg = Release|x64
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Release|x64.Build.0 = Release|x64
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Release|x86.ActiveCfg = Release|Win32
+		{2107534B-CDEE-4780-BC60-3D2FE75F35DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB493A5-00E6-43E4-A585-655922B9B7F4}
+	EndGlobalSection
+EndGlobal

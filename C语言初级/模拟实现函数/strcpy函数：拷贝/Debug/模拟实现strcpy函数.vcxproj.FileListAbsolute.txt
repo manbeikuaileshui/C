@@ -1,0 +1,2 @@
+E:\C语言\模拟实现函数\模拟实现strcpy函数\Debug\模拟实现strcpy函数.exe
+E:\C语言\模拟实现函数\strcpy函数：拷贝\Debug\模拟实现strcpy函数.exe

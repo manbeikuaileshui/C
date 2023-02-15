@@ -1,0 +1,1 @@
+E:\C语言\模拟实现函数\strncmp函数：指定比较\Debug\strncmp函数：指定比较.exe
